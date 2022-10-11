@@ -1,4 +1,4 @@
-## Seja Bem vindo eu sou Lucas!
+## Seja Bem vindo 
 
 
  ![14625](https://user-images.githubusercontent.com/104689597/194941620-2b4adedc-997e-467a-b7f2-abcd10e8b385.gif)
@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas com ambição de iniciar carreira na área, estou estudando em um bootcamp de Desenvolvimento Web Full Stack, quero me desenvolver nessa maravilhosa área e torna-la meu estilo de vida!
+Meu nome é Lucas, gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas com ambição de iniciar carreira na área, estou estudando em um bootcamp de Desenvolvimento Web Full Stack, quero me desenvolver nessa maravilhosa área e torna-la meu estilo de vida!
 
 ```Typescript
 import Developer from 'LucasMagalhaesPacheco';
