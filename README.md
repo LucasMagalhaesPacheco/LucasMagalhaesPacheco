@@ -56,3 +56,6 @@ class Skills extends Developer {
   <img src="https://activity-graph.herokuapp.com/graph?username=LucasMagalhaesPacheco&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
   
   ![Snake animation](https://github.com/LucasMagalhaesPacheco/LucasMagalhaesPacheco/blob/output/github-contribution-grid-snake.svg)
+  
+  ![6a76269356a807d214743a3a49aec79884ac5ae6_00](https://user-images.githubusercontent.com/104689597/195181253-4ba2ecde-d168-4999-bdb2-ff279fc80f58.gif)
+
